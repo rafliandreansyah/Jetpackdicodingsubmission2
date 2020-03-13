@@ -1,7 +1,8 @@
 # Jetpackdicodingsubmission2
 Submission 2 android jetpack pro
 
-
+![Home screen](https://user-images.githubusercontent.com/47078618/76595447-3b89a980-652e-11ea-8c30-47eae7ff7e8d.jpg) 
+![detail movie](https://user-images.githubusercontent.com/47078618/76595467-43e1e480-652e-11ea-97aa-6bf5c0c08b4f.jpg)
 
 Aplikasi movie catalog mengambil data dari API https://www.themoviedb.org/ secara asynchronous
 
